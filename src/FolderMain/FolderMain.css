@@ -1,0 +1,6 @@
+.app_nav {
+    grid-area: sidebar;
+    text-align: right;
+    padding: 120px 15px 0 0;
+    background-color: rgb(53, 53, 53);
+}

@@ -1,0 +1,4 @@
+.note_list {
+    list-style: none;
+    grid-area: main;
+}
